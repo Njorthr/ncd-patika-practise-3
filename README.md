@@ -5,4 +5,4 @@ yarn
 
 View the function  
 
-near view $CONTRACT helloWorld '{"names": ["<Your Name>", "<Friend Name>"]}'
+near view $CONTRACT helloWorld '{"names": ["Your Name", "Friend Name"]}'
